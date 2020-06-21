@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>19F96</string>
+	<string>19F101</string>
 	<key>CFBundleIdentifier</key>
 	<string>as.acidanthera.injector.BrcmNonPatchRAM2</string>
 	<key>CFBundleInfoDictionaryVersion</key>
