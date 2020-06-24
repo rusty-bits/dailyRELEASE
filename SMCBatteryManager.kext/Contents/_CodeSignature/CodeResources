@@ -3,9 +3,41 @@
 <plist version="1.0">
 <dict>
 	<key>files</key>
-	<dict/>
+	<dict>
+		<key>Resources/BATC-Sample.plist</key>
+		<data>
+		m0jChsJSAT1hmI/2+2h+MQn9tm4=
+		</data>
+		<key>Resources/SSDT-BATC.dsl</key>
+		<data>
+		GR5jQT6YEajh2JAV07GEMZ4MEEg=
+		</data>
+	</dict>
 	<key>files2</key>
-	<dict/>
+	<dict>
+		<key>Resources/BATC-Sample.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m0jChsJSAT1hmI/2+2h+MQn9tm4=
+			</data>
+			<key>hash2</key>
+			<data>
+			+eDOmEwQyisQyJ1qPu5BE8DQ3LEQd6/DGB6Zw59ecoI=
+			</data>
+		</dict>
+		<key>Resources/SSDT-BATC.dsl</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GR5jQT6YEajh2JAV07GEMZ4MEEg=
+			</data>
+			<key>hash2</key>
+			<data>
+			5mu9V+XG7w3bw6blH2j+h12EcJtz1HcuHBkyafKonks=
+			</data>
+		</dict>
+	</dict>
 	<key>rules</key>
 	<dict>
 		<key>^Resources/</key>
