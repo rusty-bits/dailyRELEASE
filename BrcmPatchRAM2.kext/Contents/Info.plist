@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>19F101</string>
+	<string>19G73</string>
 	<key>CFBundleExecutable</key>
 	<string>BrcmPatchRAM2</string>
 	<key>CFBundleIdentifier</key>
