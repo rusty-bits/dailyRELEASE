@@ -1450,7 +1450,7 @@
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.9</string>
+	<string>10.8</string>
 	<key>OSBundleRequired</key>
 	<string>Root</string>
 </dict>

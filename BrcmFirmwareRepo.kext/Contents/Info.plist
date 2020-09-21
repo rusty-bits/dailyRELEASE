@@ -53,7 +53,7 @@
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.9</string>
+	<string>10.8</string>
 	<key>OSBundleCompatibleVersion</key>
 	<string>2.5.5</string>
 	<key>OSBundleLibraries</key>
